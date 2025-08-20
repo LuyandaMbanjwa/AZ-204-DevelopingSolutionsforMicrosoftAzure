@@ -1,3 +1,5 @@
+Hello World
+
 # AZ-204: Developing solutions for Microsoft Azure
 
 New labs for this course were launched on August 1, 2025. The new labs are located in a different repository. 
